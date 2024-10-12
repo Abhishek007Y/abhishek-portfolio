@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62d494b5.css",
+    "main.js": "/static/js/main.c3174fa2.js",
+    "static/js/592.da62286b.chunk.js": "/static/js/592.da62286b.chunk.js",
+    "static/media/sales.jpeg": "/static/media/sales.4d84faa9f710c75e7e59.jpeg",
+    "static/media/ovstemplate.jpeg": "/static/media/ovstemplate.457ebb8ad2a443e3e2a7.jpeg",
+    "static/media/happyneo.png": "/static/media/happyneo.f10b6339c977d8846f96.png",
+    "static/media/accio.svg": "/static/media/accio.93892c18e07e927b5c963fff8541d9dd.svg",
+    "index.html": "/index.html",
+    "main.62d494b5.css.map": "/static/css/main.62d494b5.css.map",
+    "main.c3174fa2.js.map": "/static/js/main.c3174fa2.js.map",
+    "592.da62286b.chunk.js.map": "/static/js/592.da62286b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d494b5.css",
+    "static/js/main.c3174fa2.js"
+  ]
+}
